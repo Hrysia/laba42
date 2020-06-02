@@ -1,0 +1,11 @@
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\bin\Debug\netcoreapp3.1\ConsoleApp422.exe
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\bin\Debug\netcoreapp3.1\ConsoleApp422.deps.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\bin\Debug\netcoreapp3.1\ConsoleApp422.runtimeconfig.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\bin\Debug\netcoreapp3.1\ConsoleApp422.runtimeconfig.dev.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\bin\Debug\netcoreapp3.1\ConsoleApp422.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\bin\Debug\netcoreapp3.1\ConsoleApp422.pdb
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\obj\Debug\netcoreapp3.1\ConsoleApp422.csprojAssemblyReference.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\obj\Debug\netcoreapp3.1\ConsoleApp422.AssemblyInfoInputs.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\obj\Debug\netcoreapp3.1\ConsoleApp422.AssemblyInfo.cs
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\obj\Debug\netcoreapp3.1\ConsoleApp422.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp422\ConsoleApp422\obj\Debug\netcoreapp3.1\ConsoleApp422.pdb
